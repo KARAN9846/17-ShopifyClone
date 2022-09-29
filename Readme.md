@@ -34,7 +34,7 @@ This project taught me more about tailwind css how to give a class in this forma
 ## Screenshot 
 
 
-# [Live Link](https://darling-kangaroo-9bf49d.netlify.app/)
+# [Live Link](https://superb-sorbet-770efe.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
